@@ -55,30 +55,32 @@ Please find the video that pitches Viraam [here](https://youtu.be/C2UfioU1rlA)
 - Allow user to set break time reminders
 
 ## 👩🏻‍💻👩🏻‍💻Team behind Viraam
-
 <table align="center">
 <tr align="center">
 <td>
 <strong>Pravallika Myneni</strong>
 <p align="center">
-  <br><br><br>
+ <br>
+ <a href="https://ibb.co/jJhCPCx"><img src="https://i.ibb.co/jJhCPCx/me.jpg" alt="Pravallika Myneni"  height="120" border="0"></a>
 </p>
 <p align="center">
 Data Science Enthusiast
-<br> <br> <a href = "https://github.com/Pravallika-Myneni/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<br><br><a href = "https://github.com/Pravallika-Myneni/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/pravallika-myneni/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
 <td>
+ <br>
+
 <strong>Namrata Agrawal</strong>
 <p align="center">
-  <br>
-<!--<img src = "https://i.ibb.co/SrCVvxj/Whats-App-Image-2022-03-13-at-12-26-37-AM.jpg"  height="120" alt="Namrata Agrawal"> -->
+  
+<img src = "https://i.ibb.co/SrCVvxj/Whats-App-Image-2022-03-13-at-12-26-37-AM.jpg"  height="120" alt="Namrata Agrawal"> 
 </p>
 <p align="center">
-<br> Gold Microsoft <br> Learn Student Ambassador
+Gold Microsoft <br> Learn Student Ambassador
 <br> <br> <a href = "https://github.com/Namrata-Agrawal">
 <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/namrata-agrawal-/">
