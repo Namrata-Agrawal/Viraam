@@ -1,4 +1,4 @@
-# Viraam <img src=" " alt = "change here" width=150 align='right'>
+# Viraam <img src="https://github.com/Namrata-Agrawal/Viraam/blob/master/styles/viraamlogo.png" alt = "change here" width=150 align='right'>
 A Chrome browser extension to enable Viraam [Breaks/Pause] from Digital Space
 
 ## 💡Inspiration
@@ -14,7 +14,8 @@ The good news is that taking regular quality breaks can significantly reduce thi
 Viraam(વિરામ) is a chrome extension which promotes taking a healthy pause from your desk. Viraam makes you to step away from the computer and perform squats/stretching. Viraam helps you in making your workday routine more healthy.
 
 ### Functionalities
-- Live video captures
+- Automatic Reminder to switch Viraam which is customised by the user
+- Live video captures 
 - Squat/stretch counter
 
 
@@ -24,15 +25,15 @@ Please find the video that pitches Viraam [here]() **Placeholder**
 ## 🔨 How we built it
 
 | Software/ Language / framework | 
-|----------|---------|
-| Chrome Extension | 
-| Tensorflow |
-| Computer Vision |
-| Visual Studio Code | 
-| HTML | 
-| CSS |
-| JavaScript | 
-| Teachable Machine | 
+|--------------------------------|
+| Chrome Extension               | 
+| Tensorflow                     |
+| Computer Vision                |
+| Visual Studio Code             | 
+| HTML                           | 
+| CSS                            |
+| JavaScript                     | 
+| Teachable Machine              | 
 
 
 ## 🥇Accomplishments we are proud of
@@ -42,8 +43,8 @@ Please find the video that pitches Viraam [here]() **Placeholder**
 ## 📖What did we learn?
 
 - We learned how we can apply machine learning in imporving our work environment
-- Planning and Time management
-- 
+- Planning and Time management promoting collaboration and contribution on GitHub 
+- Open Source Posture estimation using Teachable Machine by Google
 
 
 ## 🚀What's next for Viraam?
