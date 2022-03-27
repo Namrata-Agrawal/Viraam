@@ -1,16 +1,16 @@
 {
-  "name": "A Back-End Developer",
-  "description" : "What do you call a software engineer doing squats?",
+  "name": "Viraam",
+  "description" : "What if digital break is conquered by squats?",
   "version": "1.0",
   "manifest_version": 2,
   "browser_action": {
     "default_popup": "popup.html",
-    "default_icon": "styles/dogsquat.png"
+    "default_icon": "styles/viraamlogo.png"
   },
   "icons": {
-    "16": "styles/dogsquat.png",
-    "48": "styles/dogsquat.png",
-    "128": "styles/dogsquat.png"
+    "16": "styles/viraamlogo.png",
+    "48": "styles/viraamlogo.png",
+    "128": "styles/viraamlogo.png"
   },
   "permissions": [
       "tabs",
