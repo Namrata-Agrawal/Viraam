@@ -1,6 +1,14 @@
 # Viraam <img src="https://github.com/Namrata-Agrawal/Viraam/blob/master/styles/viraamlogo.png" alt = "change here" width=150 align='right'>
 A Chrome browser extension to enable Viraam [Breaks/Pause] from Digital Space
 
+## 🧩 Try Viraam on your chrome browser
+- Clone our repository
+- Open [chrome://extensions/](chrome://extensions/) in your browser
+- Toggle to switch to developer mode
+- Click on "Load unpacked extension"
+- Select the diretory of the cloned repo in your local system
+- Tada🎉, now you can use Viraam on your system
+
 ## 💡Inspiration
 
 No matter how hard-working you are or how stressful your job is, the human body is not equipped for countless hours of being seated in one position in front of the screen.
