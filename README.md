@@ -20,7 +20,7 @@ Viraam(વિરામ) is a chrome extension which promotes taking a healthy pa
 
 
 ### Add-on pitch
-Please find the video that pitches Viraam [here]() **Placeholder**
+Please find the video that pitches Viraam [here](https://youtu.be/C2UfioU1rlA)
 
 ## 🔨 How we built it
 
@@ -61,7 +61,7 @@ Please find the video that pitches Viraam [here]() **Placeholder**
 <td>
 <strong>Pravallika Myneni</strong>
 <p align="center">
-  <br>
+  <br><br><br>
 </p>
 <p align="center">
 Data Science Enthusiast
