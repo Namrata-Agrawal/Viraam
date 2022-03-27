@@ -1,5 +1,6 @@
 body {
       background-color: rgb(253, 185, 185);
+      background: linear-gradient(180deg, #88FFEA 0%, #E2C0E1 51.56%, #ED92CE 100%);
       font-family: 'Nunito';
       font-size: 16px;
       text-align: center;
@@ -13,7 +14,7 @@ ul {
 }
 
 h1{
-  color: aliceblue;
+  color: rgb(7, 7, 7);
 }
 ul li {
 	display: inline;

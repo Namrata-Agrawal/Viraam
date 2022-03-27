@@ -1,6 +1,9 @@
 // More API functions here:
 // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/pose
 const modelURL = 'https://teachablemachine.withgoogle.com/models/dy0IoYYnm/';
+
+//const modelURL= 'https://teachablemachine.withgoogle.com/models/BshfwtoLN/';
+
 // the json file (model topology) has a reference to the bin file (model weights)
 const checkpointURL = modelURL + "model.json";
 // the metatadata json file contains the text labels of your model and additional information
@@ -56,7 +59,7 @@ async function loopWebcam(timestamp) {
 }
 
 async function predict() {
-    if (squatsleft == 0) {
+    if (squatsleft == 0 && squatsleft>-1) {
         celebrate();
     }
     // Prediction #1: run input through posenet
@@ -71,6 +74,8 @@ async function predict() {
 
         if (prediction[i].probability.toFixed(2) >= 0.5) {
             if (oldClass == 1 && i == 1) {
+              // 1 = stand
+              // 2 = squat
                 squatTime = squatTime + 1;
                 console.log(i)
             }
